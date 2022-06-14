@@ -1,0 +1,51 @@
+
+
+h1
+{font-family: 'Mulish', sans-serif;
+color: #FFFFFF;
+display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 50px;
+font-size: 3.0rem;
+}
+
+h1 {
+    display: inline-block;
+    position: relative;
+  }
+
+
+main
+{
+    
+}
+  .container
+{gap: 50px;
+display: flex;
+align-items: center;
+justify-content: center;}
+
+.images-container ul {
+    display: flex;
+    gap: 50px;
+    padding:30px;
+    margin:5%;
+    width:30%;
+    
+}
+
+.imagem1:hover {
+    transform: scale(1.5);
+    transition: all 1s;
+  }
+
+  .imagem2:hover {
+    transform: scale(1.5);
+    transition: all 1s;
+  }
+
+  .imagem3:hover {
+    transform: scale(1.5);
+    transition: all 1s;
+  }

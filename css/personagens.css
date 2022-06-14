@@ -1,0 +1,41 @@
+h1
+{font-family: 'Mulish', sans-serif;
+color: #FFFFFF;
+display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 50px;
+font-size: 3.0rem;
+}
+
+h1 {
+    display: inline-block;
+    position: relative;
+  }
+   
+.container
+{gap: 50px;
+display: flex;
+align-items: center;
+justify-content: center;}
+
+
+.box-wrap{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin: auto;
+  }
+
+.titulo
+{
+    display: flex;
+    align-items: center;
+justify-content: center;
+padding: 10px;
+font-family: 'Mulish', sans-serif;
+font-size: x-large;
+}
+
+
+
